@@ -1,0 +1,18 @@
+{
+  "name": "typescript-next-apollo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@graphql-codegen/visitor-plugin-common": "^4.0.1",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
